@@ -1,16 +1,6 @@
 # Resource of Deep Learning
 ---
-### Semi-Supervised Learning
-[Semi-Superviser Model](/Semi-Superviser_Model.md)
-
----
-### Few-Shot Learning
-[Few-Shot Learning](/Few-Shot_Learning.md)
-
----
-### Meta Learning
-[Meta Learning](/Meta_Learning.md)
-
----
-### Meterial of Deep Learning
-[Tutorials_and_Resources](/Tutorials_and_Resources.md)
+### 1. [Semi-Supervised Learning](/Semi-Superviser_Model.md)
+### 2. [Few-Shot Learning](/Few-Shot_Learning.md)
+### 3. [Meta Learning](/Meta_Learning.md)
+### 4. [Resources of Deep Learning](/Tutorials_and_Resources.md)
