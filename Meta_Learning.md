@@ -4,6 +4,7 @@
     - Tensorflow: https://github.com/hiwonjoon/maml-tensorflow
     - Tensorflow: https://github.com/gitlimlab/MAML-tf
     - Tensorflow: https://github.com/dragen1860/MAML-TensorFlow
+    - PyTorch: https://github.com/katerakelly/pytorch-maml
 2. One-Shot Visual Imitation Learning via Meta-Learning
     - Tensorflow: https://github.com/tianheyu927/mil
 3. SNAIL---A Simple Neural Attentive Meta-Learner(Meta-Learning with Temporal Convolutions)
